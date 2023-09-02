@@ -1,4 +1,6 @@
 <footer>
     <hr>
-    <p>Contacts</p>
+    {{ range $key, $value := .Site.Params.contacts  }}
+    <p><a href="{{ $value }}">{{ $key }}</a></p>
+    {{ end }}
 </footer>
