@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'thedmdim.github.io'
 languageCode = 'en'
 title = 'thedmdim'
 theme = 'book'
