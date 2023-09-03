@@ -2,6 +2,7 @@
 title: "Program Structure"
 date: 2023-08-28T22:05:56+04:00
 draft: false
+weight: 1
 ---
 
 ## Create structure
