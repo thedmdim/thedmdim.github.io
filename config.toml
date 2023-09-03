@@ -5,6 +5,7 @@ theme = 'book'
 [Params]
 logo = 'thedmdim'
 metrika = 90000000
+analytics = "G-CNLNQT3KL5"
 
 [Params.contacts]
 github = "https://github.com/thedmdim"
