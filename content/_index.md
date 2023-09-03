@@ -12,4 +12,4 @@ I'm very interested in 💻 IT history and state-of-art programs.
 
 My biggest wish is to start a business 💸 with my friend, experiencing so passionate in work turning it into entertainment, then move to US 🇺🇸 and live there happily sipping wine and cooking steaks on weekends
 
-Here I'm gonna write something I want, it could be anything
+Here I'm gonna write anything I want
