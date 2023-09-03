@@ -7,7 +7,7 @@ logo = 'thedmdim'
 metrika = 90000000
 
 [Params.contacts]
-github = "github.com/thedmdim"
+github = "https://github.com/thedmdim"
 
 
 [markup.highlight]
